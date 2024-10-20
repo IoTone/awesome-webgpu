@@ -37,7 +37,9 @@ WebGPU is a work in progress Web standard from [W3C](https://www.w3.org/) for mo
 - [Working Draft](https://www.w3.org/TR/WGSL/)
 - [Editor's Draft](https://gpuweb.github.io/gpuweb/wgsl/)
 
+### Rust
 
+- [WebGPU Showcase Rust](https://wgpu.rs/)
 ### API documentations
 - [API quick reference and documentation](https://webgpu.rocks/) - WebGPU.rocks.
 - [MDN](https://developer.mozilla.org/en-US/docs/Web/API/WebGPU_API) - MDN WebGPU API references.
